@@ -41,7 +41,7 @@
 
             public function show_height()
             {
-                echo $this->height . "<br";
+                echo $this->height . "<br>";
             }
         }
 
